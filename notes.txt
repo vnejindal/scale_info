@@ -1,0 +1,14 @@
+net.ipv4.ip_local_port_range=2048 65535
+net.ipv4.tcp_fin_timeout=10
+net.ipv4.tcp_tw_reuse=1
+
+
+
+
+references:
+
+https://docs.pingidentity.com/bundle/pingaccess-60/page/nll1571950354674.html
+https://www.ibm.com/docs/en/linux-on-systems?topic=tuning-tcpip-ipv4-settings
+https://access.redhat.com/solutions/41776
+
+https://migratorydata.com/blog/migratorydata-with-12-million-concurrent-websockets/
